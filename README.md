@@ -20,7 +20,7 @@ Hi! I'm **Ansh Bhawnani**. I am currently working as a Security Engineer and als
  - **Technical**
 	 - **Computer Fundamentals**
 		 - https://www.youtube.com/watch?v=87t6P5ZHTP0&list=PLG49S3nxzAnnOmvg5UGVenB_qQgsh01uC&ab_channel=ProfessorMesser
-		 - https://www.youtube.com/watch?v=tIfRDPekybU
+		 - https://www.youtube.com/watch?v=-AP1nNK3bRs&list=PLWPirh4EWFpF_2T13UeEgZWZHc8nHBuXp&ab_channel=Tutorialspoint
 		 - https://www.tutorialspoint.com/computer_fundamentals/index.htm
 		 - https://onlinecourses.swayam2.ac.in/cec19_cs06/preview
 		 - https://www.udemy.com/course/complete-computer-basics-course/
